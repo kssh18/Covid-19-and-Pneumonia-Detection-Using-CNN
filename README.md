@@ -7,7 +7,7 @@ Using chest X-ray pictures, the project aimes to construct a Convolutional Neura
 
 This model works
 
-### Dataset - Covid 19:
+### Dataset:
 
 <hr>
 
@@ -17,6 +17,6 @@ The dataset is sourced from <a href = "https://www.kaggle.com/datasets/mr3suvhro
 
 kjdsa;ljf
 
-### Dataset - Pneumonia
+### Dataset:
 
 The dataset is taken from <a href = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" style="text-decoration:none;" target="_blank"> "Chest X-Ray Images (Pneumonia)" </a> from Kaggle. The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
