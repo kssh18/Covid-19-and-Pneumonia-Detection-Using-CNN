@@ -1,7 +1,7 @@
 # CNN for Covid-19 and Pneumonia detection
 
 Chest X-rays helps us to find out the affected areas in the lungs.
-Using chest X-ray pictures, the project aimed to construct a convolutional neural network (CNN) model that will aid in the early detection of COVID-19 and non-COVID-19 viral pneumonia patients during the pandemic’s challenging time. As described, two convolutional neural network (CNN) models were trained and implemented on two distinct datasets; one for "Covid -19" detection and the other one for "Pneumonia"
+Using chest X-ray pictures, the project aimes to construct a Convolutional Neural Network (CNN) model that aids in the early detection of COVID-19 and non-COVID-19 viral pneumonia patients during the challenging times of the COVID-19 pandemic. In this project, two Convolutional Neural Network (CNN) models were trained and implemented on two distinct datasets; one for "Covid -19" detection and the other one for "Pneumonia" detection.
 
 ## Covid - 19
 
