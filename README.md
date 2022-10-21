@@ -20,3 +20,11 @@ kjdsa;ljf
 ### Dataset:
 
 The dataset is taken from <a href = "https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia" style="text-decoration:none;" target="_blank"> "Chest X-Ray Images (Pneumonia)" </a> from Kaggle. The dataset is organized into 3 folders (train, test, val) and contains subfolders for each image category (Pneumonia/Normal). There are 5,863 X-Ray images (JPEG) and 2 categories (Pneumonia/Normal).
+
+
+### Contributors
+[![portfolio](https://img.shields.io/badge/Koganti_Sri_Sai_Harshith-072F5F?style=for-the-badge)](https://github.com/kssh18)<br>
+[![portfolio](https://img.shields.io/badge/Likhit_Kalla-E23?style=for-the-badge)](https://github.com/likhitkalla)<br>
+[![portfolio](https://img.shields.io/badge/Yashwanth_Kiran-1e90ff?style=for-the-badge)](https://github.com/iyashk)<br>
+[![portfolio](https://img.shields.io/badge/Abhishek_Sai-F08080?style=for-the-badge)](https://github.com/Abhishek-Sai-14)<br>
+[![portfolio](https://img.shields.io/badge/Perumula_Raghavendra-000?style=for-the-badge)](https://github.com)<br>
